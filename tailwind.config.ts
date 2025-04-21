@@ -52,6 +52,19 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+                classconnect: {
+                    50: '#f0f5ff',
+                    100: '#e1ebfe',
+                    200: '#c9d9fb',
+                    300: '#a4bdf8',
+                    400: '#7b99f1',
+                    500: '#6276e8',
+                    600: '#4c58d9',
+                    700: '#4145c0',
+                    800: '#363b9c',
+                    900: '#313580',
+                    950: '#1e203e',
+                },
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
